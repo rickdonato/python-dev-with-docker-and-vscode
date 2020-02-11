@@ -1,4 +1,4 @@
-# Introduction to Network Automation
+# Python Development with Docker and VSCode
 
 This repo contains the code and files for the following:
 
