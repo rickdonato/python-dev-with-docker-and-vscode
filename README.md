@@ -3,7 +3,7 @@
 There are 2 methods you can use to run the application inside a container-based development environment.
 For this you will to have Docker installed, and if you want to follow the VS Code method you will Visual Studio Code and its extensions. See pre-requisites.
 
-## Standalone container
+## Standalone Container
 
 You can build the `Dockerfile.standalone` image which will use the `continuumio/miniconda3` image, copy the projects files to `/app` directory in the container, with the execption of the paths indicated in the `.dockerignore` file, and install the project python dependencies.
 
